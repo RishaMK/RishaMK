@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Risha MK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Risha</h1>
+<h3 align="center">I'm a Computer Science engineering student and a frontend developer. I am very perceptive to new challanges and love constantly learning new things, which is what sold me to CS! Apart from this, I enjoy reading books, watching movies/shows, and, last but not least, I love biking!</h3>
 
 - 🌱 I’m currently learning **JavaScript,Flutter**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **WebDev Projects**
 
 - 💬 Ask me about **HTML-CSS**
 
 - 📫 How to reach me **rishamkeerthi@gmail.com**
 
-- ⚡ Fun fact **I can sing pretty well!**
+- ⚡ Fun fact **I have had three fractures until now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
