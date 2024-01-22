@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science engineering student and a frontend developer. I am very perceptive to new challanges and love constantly learning new things, which is what sold me to CS! Apart from this, I enjoy reading books, watching movies/shows, and, last but not least, I love biking!</h3>
 
 
-<br>🔭 I’m currently working on a Java based College Department Portal<br>👯 I’m looking to collaborate on WebDev Projects<br>🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Flutter<br>💬 Ask me about HTML-CSS<br>⚡ Fun fact about me- I've had three fractures 
+<br>🔭 I’m currently working on a College Department Portal<br>👯 I’m looking to collaborate on WebDev Projects<br>🌱 I’m currently learning JavaScript, ReactJS, NodeJS<br>💬 Ask me about HTML-CSS<br>⚡ Fun fact about me- I've had three fractures 
 
 
 ## 🌐 Socials:
