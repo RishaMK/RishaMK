@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Risha Keerthi!</h1>
+<h1 align="center">Hey 👋, I'm Risha Keerthi!</h1>
 <h3 align="center">I'm a Computer Science engineering student and a frontend developer. I am very perceptive to new challanges and love constantly learning new things, which is what sold me to CS! Apart from this, I enjoy reading books, watching movies/shows, and, last but not least, I love biking!</h3>
 
-- 🌱 I’m currently learning **NodeJS, MongoDB**
+- 🌱 I’m currently learning **NextJS, ExpressJS, NodeJS, MongoDB**
 
 - 📫 How to reach me **rishamkeerthi@gmail.com**
 
