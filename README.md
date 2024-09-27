@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Risha Keerthi!</h1>
-<h3 align="center">I'm a Computer Science engineering student and a frontend developer. I am very perceptive to new challanges and love constantly learning new things, which is what sold me to CS! Apart from this, I enjoy reading books, watching movies/shows, and, last but not least, I love biking!</h3>
+<h3 align="center">I'm a Computer Science engineering student and a web developer. I am very perceptive to new challanges and love learning new things, which is what sold me to CS! Apart from this, I enjoy reading books, watching movies/shows, and, last but not least, I love biking!</h3>
 
 - 🌱 I’m currently learning **NextJS**
 
