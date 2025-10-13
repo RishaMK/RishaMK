@@ -1,7 +1,5 @@
 # Hey, I'm Risha 👋
 
-🌱 I’m currently learning Next.js <br>
-👯 I’m looking to collaborate on FullStack projects<br>
 📫 Reach me through [Mail](mailto:rishamkeerthi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/risha-keerthi-b41089247/). <br />
 
 # 💻 Tech Stack:
